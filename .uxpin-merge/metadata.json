@@ -1,0 +1,152 @@
+{
+  "categorizedComponents": [
+    {
+      "components": [
+        {
+          "documentation": {
+            "examples": []
+          },
+          "info": {
+            "dirPath": "src/components",
+            "implementation": {
+              "framework": "reactjs",
+              "lang": "javascript",
+              "path": "src/components/Form.js"
+            },
+            "presets": []
+          },
+          "name": "Form",
+          "presets": [],
+          "properties": [],
+          "wrappers": []
+        },
+        {
+          "documentation": {
+            "examples": []
+          },
+          "info": {
+            "dirPath": "src/components",
+            "implementation": {
+              "framework": "reactjs",
+              "lang": "javascript",
+              "path": "src/components/FilterButton.js"
+            },
+            "presets": []
+          },
+          "name": "FilterButton",
+          "presets": [],
+          "properties": [
+            {
+              "defaultValue": {
+                "value": "Button Name"
+              },
+              "description": "",
+              "isRequired": false,
+              "name": "name",
+              "type": {
+                "name": "string",
+                "structure": {}
+              }
+            }
+          ],
+          "wrappers": []
+        },
+        {
+          "documentation": {
+            "examples": []
+          },
+          "info": {
+            "dirPath": "src/components/merge/todo",
+            "implementation": {
+              "framework": "reactjs",
+              "lang": "javascript",
+              "path": "src/components/merge/todo/Todo.js"
+            },
+            "presets": []
+          },
+          "name": "Todo",
+          "presets": [],
+          "properties": [
+            {
+              "description": "If `true`, the todo will be marked as completed.",
+              "isRequired": false,
+              "name": "completed",
+              "type": {
+                "name": "boolean",
+                "structure": {}
+              }
+            },
+            {
+              "defaultValue": {
+                "value": "Do Laundry"
+              },
+              "description": "The name of the todo.",
+              "isRequired": false,
+              "name": "name",
+              "type": {
+                "name": "string",
+                "structure": {}
+              }
+            },
+            {
+              "description": "",
+              "isRequired": false,
+              "name": "toggleTaskCompleted",
+              "type": {
+                "name": "func",
+                "structure": {}
+              }
+            }
+          ],
+          "wrappers": []
+        },
+        {
+          "documentation": {
+            "examples": []
+          },
+          "info": {
+            "dirPath": "src/components",
+            "implementation": {
+              "framework": "reactjs",
+              "lang": "javascript",
+              "path": "src/components/InputOutput.js"
+            },
+            "presets": []
+          },
+          "name": "InputOutput",
+          "presets": [],
+          "properties": [],
+          "wrappers": []
+        },
+        {
+          "documentation": {
+            "examples": []
+          },
+          "info": {
+            "dirPath": "src/components",
+            "implementation": {
+              "framework": "reactjs",
+              "lang": "javascript",
+              "path": "src/components/News.js"
+            },
+            "presets": []
+          },
+          "name": "News",
+          "presets": [],
+          "properties": [],
+          "wrappers": []
+        }
+      ],
+      "name": "General"
+    }
+  ],
+  "name": "Learn UXPin Merge - React Todo list tutorial",
+  "vcs": {
+    "branchName": "master",
+    "commitHash": "4c1ad2bc5d50f96265693be50997c306081b0964",
+    "paths": {
+      "configPath": "/home/bohdan/Projects/uxpin-merge-test-project/todo-react/uxpin.config.js",
+      "projectRoot": "/home/bohdan/Projects/uxpin-merge-test-project/todo-react"
+    }
+  }
+}
