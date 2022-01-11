@@ -8,7 +8,8 @@ module.exports = {
             'src/components/FilterButton.js',
             'src/components/merge/todo/Todo.js',
             'src/components/InputOutput.js',
-            'src/components/News.js'
+            'src/components/MaterialButtonSimple.js',
+            'src/components/Card.js',
           ]
         }
       ],

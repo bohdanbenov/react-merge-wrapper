@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 
-import '../web-components/sample/main';
-import '../web-components/sample/polyfills';
-import '../web-components/sample/runtime';
+import { HtextComponent } from '../web-components/web-components';
+import '../web-components/styles.css';
 
 function InputOutput() {
   const [reactInputValue, setReactInputValue] = useState('');
