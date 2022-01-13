@@ -11,7 +11,8 @@ module.exports = {
             'src/components/MaterialButtonSimple.js',
             'src/components/Card.js',
             'src/components/CardTitle.js',
-            'src/components/NestedCard.js'
+            'src/components/NestedCard.js',
+            'src/components/ProjectedNestedCard.js'
           ]
         }
       ],
