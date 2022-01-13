@@ -10,6 +10,8 @@ module.exports = {
             'src/components/InputOutput.js',
             'src/components/MaterialButtonSimple.js',
             'src/components/Card.js',
+            'src/components/CardTitle.js',
+            'src/components/NestedCard.js'
           ]
         }
       ],
